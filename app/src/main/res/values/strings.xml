@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Thomas Biju</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio"> Hi, my name is Thomas.
+    \n\nThis is my second project using Kotlin.
+        \n\nI am hoping to practice Kotlin really well for 2 months.
+        \n\nI do not know what else to write.
+        \n\nSo I am writing some random things.
+        \n\nIn the app make it feel I have written an lot of stuff
+        \n\nHonestly speaking, I am just repeating the same thing
+        over and over again to make it longer and use the scroll feature.
+        \n\nOK still the scroll has not started so I am just writing some other things.
+        \n\n I hope it is now long enough for the scroll to start.\n</string>
+</resources>
